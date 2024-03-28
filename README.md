@@ -1,3 +1,3 @@
 # dailly_jokes
 
-A new Flutter project.
+A simplae joke generator mobile app using the " Joke API"
